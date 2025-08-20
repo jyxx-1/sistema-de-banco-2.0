@@ -15,3 +15,6 @@ Objetivos do sistema:
 - Criar conta corrente = agência, nro da conta e usuário -> nro da conta é sequencial, iniciando em 1. Agência é fixo "0001" usuário pode ter mais de uma conta, mas uma conta pertence a somente um usuário.
 
 * OBS: para vincular um usuário a uma conta, filtar a lista de usuários buscando o número do cpf informado para cada usuário da lista.
+* OBS 2: feito em linguagem Python utilizando a IDE VS CODE e python versão 3.13.2
+
+* Sugestões de melhoria: usar banco de dados para armanzenar informações já salvas no intuito de ter uma melhor experiência ao usar o programa; desenvolver melhor a parte visual (front-end) com HTML, CSS e JavaScript e integrar com o back-end.
